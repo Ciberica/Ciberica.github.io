@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Ciberica.github.io</id>
     <title>Nephoscope</title>
-    <updated>2020-05-05T09:39:23.064Z</updated>
+    <updated>2020-05-05T09:40:57.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Ciberica.github.io"/>
     <link rel="self" href="https://Ciberica.github.io/atom.xml"/>
@@ -21,26 +21,32 @@
 https://koolshare.cn/portal.php<br>
 https://www.hostloc.com/forum.php<br>
 https://www.52pojie.cn/</p>
+<hr>
 <h3 id="mail">mail</h3>
 <p>https://protonmail.com/<br>
 http://www.yopmail.com</p>
+<hr>
 <h3 id="galgameerogame">galgame&amp;erogame</h3>
 <p>https://bbs.ikfol.com/<br>
 http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/  （Japanese ip only）<br>
 https://www.2dfan.com/<br>
 https://www.south-plus.net/<br>
 https://zodgame.xyz/</p>
+<hr>
 <h3 id="acg-checklist">acg checklist</h3>
 <p>https://myanimelist.net/<br>
 https://bangumi.tv/</p>
+<hr>
 <h3 id="唯一指定英语俚语翻译">唯一指定英语俚语翻译</h3>
 <p>https://www.urbandictionary.com/</p>
+<hr>
 <h3 id="mangaanime-download">manga&amp;anime download</h3>
 <p>https://www.manhuabudang.com/index.php<br>
 https://loveheaven.net/manga-list.html（eng）<br>
 https://nyaa.si/<br>
 https://mikanani.me/<br>
 https://share.dmhy.org/</p>
+<hr>
 <h3 id="其他">其他</h3>
 <p>https://lovecia.com/<br>
 https://vcb-s.nmm-hd.org/<br>
@@ -51,6 +57,7 @@ https://docs.cfw.lbyczf.com/contents/quickstart.html<br>
 https://limelight.moe/<br>
 https://send.firefox.com/<br>
 1.1.1.1</p>
+<hr>
 ]]></content>
     </entry>
     <entry>
@@ -87,9 +94,7 @@ https://send.firefox.com/<br>
 <p>插入图片</p>
 <p><em>这里是xie体</em><br>
 <strong>zhelishichuti</strong></p>
-<p>| Tables         | Are           | Cool  |</p>
-<p>| col3            | centered   |  fdf    |</p>
-<p>-表格好难</p>
+<p>-表格好麻烦</p>
 <table>
 <thead>
 <tr>
@@ -115,6 +120,7 @@ https://send.firefox.com/<br>
 <hr>
 <hr>
 <hr>
+<p>这是分割线</p>
 <hr>
 ]]></content>
     </entry>
