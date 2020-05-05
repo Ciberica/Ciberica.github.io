@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Ciberica.github.io</id>
     <title>Gridea</title>
-    <updated>2020-05-05T06:40:50.429Z</updated>
+    <updated>2020-05-05T06:47:18.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Ciberica.github.io"/>
     <link rel="self" href="https://Ciberica.github.io/atom.xml"/>
@@ -10,6 +10,39 @@
     <logo>https://Ciberica.github.io/images/avatar.png</logo>
     <icon>https://Ciberica.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[MARKDOWN TEST ARTICLE]]></title>
+        <id>https://Ciberica.github.io/post/markdown-test-article/</id>
+        <link href="https://Ciberica.github.io/post/markdown-test-article/">
+        </link>
+        <updated>2020-05-05T06:41:43.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="一级标题">一级标题</h1>
+<h2 id="二级标题">二级标题</h2>
+<h3 id="三级标题">三级标题</h3>
+<p>###无序列表<br>
+*1</p>
+<p>*2</p>
+<p>*3</p>
+<p>###有序列表<br>
+1.1<br>
+2.3<br>
+3.！</p>
+<blockquote>
+<p>例如这样进行引用</p>
+</blockquote>
+<figure data-type="image" tabindex="1"><img src="https://Ciberica.github.io/post-images/1588661034300.jpg" alt="" loading="lazy"></figure>
+<p>插入图片</p>
+<p><em>这里是xie体</em><br>
+<strong>zhelishichuti</strong></p>
+<p>| Tables        | Are           | Cool  |</p>
+<p>| ------------- |:-------------😐 -----😐</p>
+<p>| col 3 is      | right-aligned | $1600 |</p>
+<p>| col 2 is      | centered      |   $12 |</p>
+<p>| zebra stripes | are neat      |    $1 |</p>
+<p><code>main(object)</code></p>
+<hr>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Ciberica.github.io/post/hello-gridea/</id>
