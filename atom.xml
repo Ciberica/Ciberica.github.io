@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Ciberica.github.io</id>
-    <title>C.Iberica&apos;s Blog</title>
-    <updated>2020-05-05T07:28:41.463Z</updated>
+    <title>Nephoscope</title>
+    <updated>2020-05-05T07:33:19.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Ciberica.github.io"/>
     <link rel="self" href="https://Ciberica.github.io/atom.xml"/>
     <subtitle>Another nephoscope above the Tropic of Cancer</subtitle>
     <logo>https://Ciberica.github.io/images/avatar.png</logo>
     <icon>https://Ciberica.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, C.Iberica&apos;s Blog</rights>
+    <rights>All rights reserved 2020, Nephoscope</rights>
     <entry>
-        <title type="html"><![CDATA[MARKDOWN TEST ARTICLE]]></title>
+        <title type="html"><![CDATA[MARKDOWN TEST ]]></title>
         <id>https://Ciberica.github.io/post/markdown-test-article/</id>
         <link href="https://Ciberica.github.io/post/markdown-test-article/">
         </link>
