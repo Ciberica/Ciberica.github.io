@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Ciberica.github.io</id>
     <title>Nephoscope</title>
-    <updated>2020-05-05T09:35:24.870Z</updated>
+    <updated>2020-05-05T09:36:31.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Ciberica.github.io"/>
     <link rel="self" href="https://Ciberica.github.io/atom.xml"/>
@@ -16,32 +16,32 @@
         <link href="https://Ciberica.github.io/post/chang-yong-wang-zhan-suo-yin/">
         </link>
         <updated>2020-05-05T08:49:09.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="路由">路由</h1>
+        <content type="html"><![CDATA[<h2 id="路由">路由</h2>
 <p>https://www.right.com.cn/<br>
 https://koolshare.cn/portal.php<br>
 https://www.hostloc.com/forum.php<br>
 https://www.52pojie.cn/</p>
-<h1 id="mail">mail</h1>
+<h2 id="mail">mail</h2>
 <p>https://protonmail.com/<br>
 http://www.yopmail.com</p>
-<h1 id="galgameerogame">galgame&amp;erogame</h1>
+<h2 id="galgameerogame">galgame&amp;erogame</h2>
 <p>https://bbs.ikfol.com/<br>
 http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/  （Japanese ip only）<br>
 https://www.2dfan.com/<br>
 https://www.south-plus.net/<br>
 https://zodgame.xyz/</p>
-<h1 id="acg-checklist">acg checklist</h1>
+<h2 id="acg-checklist">acg checklist</h2>
 <p>https://myanimelist.net/<br>
 https://bangumi.tv/</p>
-<h1 id="唯一指定英语俚语翻译">唯一指定英语俚语翻译</h1>
+<h2 id="唯一指定英语俚语翻译">唯一指定英语俚语翻译</h2>
 <p>https://www.urbandictionary.com/</p>
-<p>#manga&amp;anime download<br>
+<p>##manga&amp;anime download<br>
 https://www.manhuabudang.com/index.php<br>
 https://loveheaven.net/manga-list.html（eng）<br>
 https://nyaa.si/<br>
 https://mikanani.me/<br>
 https://share.dmhy.org/</p>
-<h1 id="其他">其他</h1>
+<h2 id="其他">其他</h2>
 <p>https://lovecia.com/<br>
 https://vcb-s.nmm-hd.org/<br>
 https://www.w3schools.com/<br>
